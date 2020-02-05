@@ -5,4 +5,4 @@ The knapsack problem or rucksack problem is a problem in combinatorial optimizat
 
 <img src="0_3dS6Jw8NzzSD-mn8.jpg" alt="Knapsack" align="middle">
 
-### This repo includes both greedy and dynamic programming implementation.
+## This repo includes both greedy and dynamic programming implementation.
